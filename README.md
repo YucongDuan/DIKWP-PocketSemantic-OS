@@ -1,10 +1,12 @@
 # DIKWP PocketSemantic OS
 
+Created by Yucong Duan (段玉聪).
+
 Portable semantic capability augmentation, answer enhancement, and semantic penetration-through-ambiguity kit for constrained AI access.
 
-DIKWP PocketSemantic OS is a small, offline-first, model-agnostic toolkit that turns messy tasks into compact **Semantic Capsules**. A capsule can be copied into any AI system, including low-context, low-capability, low-compute, or policy-restricted models, to improve answer quality without bypassing access controls, safety policies, platform rules, rate limits, or usage restrictions.
+DIKWP PocketSemantic OS is a small, offline-first, model-agnostic toolkit that turns messy tasks into compact Semantic Capsules. A capsule can be copied into any AI system, including low-context, low-capability, low-compute, or policy-restricted models, to improve answer quality without bypassing access controls, safety policies, platform rules, rate limits, or usage restrictions.
 
-The project interprets **semantic penetration** as: penetrating ambiguity, fragmentation, missing context, weak intent, and low-evidence answers. It explicitly does **not** mean jailbreaking, prompt injection, extracting hidden system prompts, circumventing paywalls, bypassing safety policies, evading compute limits, or hiding prohibited actions.
+The project interprets semantic penetration as: penetrating ambiguity, fragmentation, missing context, weak intent, and low-evidence answers. It explicitly does not mean jailbreaking, prompt injection, extracting hidden system prompts, circumventing paywalls, bypassing safety policies, evading compute limits, or hiding prohibited actions.
 
 ## Core idea
 
